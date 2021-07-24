@@ -1,0 +1,8 @@
+rootProject.name = "Module Test"
+include ':app-one'
+include ':lib-one'
+include ':app-two'
+include ':lib-two'
+include ':app-base'
+include ':lib-common'
+include ':lib-three'
